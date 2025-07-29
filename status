@@ -1,3 +1,8 @@
 {
-	"still_working" : "OK"
+	"operating_mode": "NORMAL",
+	"modes": [
+		"NORMAL",
+		"NOT_WORKING",
+		"YOU_ARE_DOOMED"
+	]
 }
